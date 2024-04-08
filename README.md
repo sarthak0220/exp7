@@ -42,7 +42,7 @@ Darryldecode\Cart\CartServiceProvider::class
 ```php
 php artisan vendor:publish --provider="Darryldecode\Cart\CartServiceProvider" --tag="config"
 ```
-
+<!-- hiiii -->
 ## HOW TO USE
 
 -   [Quick Usage](#usage-usage-example)
